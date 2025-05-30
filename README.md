@@ -1,0 +1,2 @@
+# JSscripts
+Dinner algorithm
