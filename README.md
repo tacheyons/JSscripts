@@ -1,2 +1,2 @@
 # JSscripts
-Dinner algorithm
+Javascript algorithms and  programs.
